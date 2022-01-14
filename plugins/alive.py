@@ -36,14 +36,12 @@ async def start_(client: Client, message: Message):
         photo=f"https://telegra.ph/file/ceea3d2fbda7b1a0c9f17.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 ❣️ 𝐇ᴇʟʟᴏ 𝐈 𝐀ᴍ 𝐁ʟᴀᴢᴇ 𝐌ᴜ𝐬ɪᴄ . 𝐒ᴜᴘᴇʀ ғᴀ𝐬ᴛ ᴠᴄ ᴍᴜ𝐬ɪᴄ 𝐏ʟᴀʏᴇʀ 𝐂ʀᴇᴀᴛᴇᴅ 𝐁ʏ [𝐎ғғɪᴄɪᴀʟ 𝐀ғᴋ 𝐱𝐃](https://t.me/Official_Afk_xD)
-𝐁ᴏᴛ 𝐅ᴏʀ 𝐓ᴇʟᴇɢʀᴀᴍ 𝐆ʀᴏᴜᴘ𝐬 ...
 ┏━━━━━━━━━━━━━━━━━┓
 ┣★ 𝐂ʀᴇᴀᴛᴏʀ : [𝐎ғғɪᴄɪᴀʟ 𝐀ғᴋ𝐱𝐃](https://t.me/log_afk)
 ┣★ 𝐒ᴜᴘᴘᴏʀᴛ : [𝐁ʟᴀᴢᴇ 𝐒ᴜᴘᴘᴏʀᴛ](https://t.me/Blaze_support)
 ┣★ 𝐂ʜᴀᴛ𝐙ᴏɴ : [𝐂ʜᴀᴛᴛɪɴɢ 𝐆ʀᴏᴜ](https://t.me/UNIQUE_SOCIETY)
-┣★ 𝐅ʀɪᴇɴᴅ𝐬 : [𝐈ɴɴᴏᴄᴇɴᴛ 𝐏ᴇʀ𝐬](https://t.me/evil_xD_boy)
+┣★ 𝐅ʀɪᴇɴᴅ𝐬  : [𝐈ɴɴᴏᴄᴇɴᴛ 𝐏ᴇʀ𝐬](https://t.me/evil_xD_boy)
 ┗━━━━━━━━━━━━━━━━━┛
-
 💞 𝐈ғ ᴜ ʜᴀᴠᴇ ᴀɴʏ ϙᴜᴇ𝐬ᴛɪᴏɴ𝐬 
  𝐃ᴍ ᴛᴏ 𝐌ʏ[𝗖ᴀᴘᴛᴀɪɴ 𝗔ɴᴅʏ](https://t.me/its_jack) ...
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
