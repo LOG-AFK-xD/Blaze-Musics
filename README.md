@@ -1,7 +1,7 @@
 ### Best Smart Voice Chat Music Bot For Telegram Groups ...
 
 
-<p align="center"><a href="https://t.me/xmartperson"><img src="https://telegra.ph/file/564f5ebbd100278261a03.jpg"></a></p>
+<p align="center"><a href="https://t.me/log_afk"><img src="https://telegra.ph/file/8878b397ef08e7b079a7a.jpg"></a></p>
 
 
 
@@ -13,7 +13,7 @@
 
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/S780821/Rockerz_Musicplayer)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/log-afk-xD/Blaze-Musics)
 
 ### Deploy in heroku on telegram
 
@@ -27,4 +27,4 @@
 
 ### Copy Pasters You Can Copy This But Must Give Credits ...
 
-#### Main Developer = [ᴘᴇʀғᴇᴄᴛ sᴀʟɪᴍ](@xmartperson)
+#### Main Developer = [𝐀 𝐋 𝐎 𝐍 𝐄 ♪](@log_afk)
