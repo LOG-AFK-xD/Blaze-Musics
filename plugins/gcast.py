@@ -1,4 +1,4 @@
-# Copyright (C) 2021 By @xmartperson 
+# Copyright (C) 2021 By @official_afk_xD 
 
 import asyncio
 from pyrogram import Client, filters
