@@ -322,7 +322,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="**💥 𝑩𝒍𝒂𝒛𝒆 𝑺𝒕𝒂𝒓𝒕𝒆𝒅 𝑷𝒍𝒂𝒚𝒊𝒏𝒈 🥀 ...**".format(),
+            caption="**💥 𝐁𝐥𝐚𝐳𝐞🤞𝐌ʋ𝐬ɩƈ 🎸 𝐍øω 💞 🔊 Ƥɭɑ𝐲ɩɳʛ 😍 ØƤ 🥀 ...**".format(),
            )
 
     os.remove("final.png")
