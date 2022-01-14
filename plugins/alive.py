@@ -33,25 +33,25 @@ async def _human_time_duration(seconds):
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/564f5ebbd100278261a03.jpg",
+        photo=f"https://telegra.ph/file/ceea3d2fbda7b1a0c9f17.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
-💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ ʀᴏᴄᴋᴇʀᴢ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ ᴄʀᴇᴀᴛᴇᴅ ʙʏ [ᴘᴇʀғᴇᴄᴛ sᴀʟɪᴍ](https://t.me/xmartperson)
-ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ...
+❣️ 𝐇ᴇʟʟᴏ 𝐈 𝐀ᴍ 𝐁ʟᴀᴢᴇ 𝐌ᴜ𝐬ɪᴄ . 𝐒ᴜᴘᴇʀ ғᴀ𝐬ᴛ ᴠᴄ ᴍᴜ𝐬ɪᴄ 𝐏ʟᴀʏᴇʀ 𝐂ʀᴇᴀᴛᴇᴅ 𝐁ʏ [𝐎ғғɪᴄɪᴀʟ 𝐀ғᴋ 𝐱𝐃](https://t.me/Official_Afk_xD)
+𝐁ᴏᴛ 𝐅ᴏʀ 𝐓ᴇʟᴇɢʀᴀᴍ 𝐆ʀᴏᴜᴘ𝐬 ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴏʀ : [ᴘᴇʀғᴇᴄᴛ sᴀʟɪᴍ](https://t.me/xmartperson)
-┣★ sᴜᴘᴘᴏʀᴛ :  [ʀᴏᴄᴋᴇʀᴢ sᴜᴘᴘᴏʀᴛ](https://t.me/ROCKERZ_SUPPORT)
-┣★ ᴄʜᴀᴛᴛɪɴɢ : [xᴍᴀʀᴛʏ Cʜᴀᴛ](https://t.me/xmarty_support)
-┣★  oᴡɴᴇʀ › : [ᴘᴇʀғᴇᴄᴛ sᴀʟɪᴍ](https://t.me/xmartperson)
+┣★ 𝐂ʀᴇᴀᴛᴏʀ : [𝐎ғғɪᴄɪᴀʟ 𝐀ғᴋ𝐱𝐃](https://t.me/log_afk)
+┣★ 𝐒ᴜᴘᴘᴏʀᴛ : [𝐁ʟᴀᴢᴇ 𝐒ᴜᴘᴘᴏʀᴛ](https://t.me/Blaze_support)
+┣★ 𝐂ʜᴀᴛ𝐙ᴏɴ : [𝐂ʜᴀᴛᴛɪɴɢ 𝐆ʀᴏᴜ](https://t.me/UNIQUE_SOCIETY)
+┣★ 𝐅ʀɪᴇɴᴅ𝐬 : [𝐈ɴɴᴏᴄᴇɴᴛ 𝐏ᴇʀ𝐬](https://t.me/evil_xD_boy)
 ┗━━━━━━━━━━━━━━━━━┛
 
-💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
-ᴅᴍ ᴛᴏ ᴍʏ [ᴘᴇʀғᴇᴄᴛ ᴏᴡɴᴇʀ](https://t.me/xmartperson) ...
+💞 𝐈ғ ᴜ ʜᴀᴠᴇ ᴀɴʏ ϙᴜᴇ𝐬ᴛɪᴏɴ𝐬 
+ 𝐃ᴍ ᴛᴏ 𝐌ʏ[𝗖ᴀᴘᴛᴀɪɴ 𝗔ɴᴅʏ](https://t.me/its_jack) ...
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "➕ ❰ ᴊᴏɪɴ ɴᴅ sᴛᴀʏ ᴜᴘᴅᴀᴛᴇᴅ ❱ ➕", url=f"https://t.me/ROCKERZ_SUPPORT")
+                        "➕ 𝐀ᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ 𝐆ʀᴏᴜᴘ ➕", url="t.me/BLAZE_MUSIC_BOT?startgroup=true")
                 ]
                 
            ]
@@ -62,13 +62,13 @@ async def start_(client: Client, message: Message):
 @Client.on_message(commandpro(["/start", "/alive", "sᴀʟɪᴍ"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/564f5ebbd100278261a03.jpg",
+        photo=f"https://telegra.ph/file/ceea3d2fbda7b1a0c9f17.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴊᴏɪɴ ʜᴇʀᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ ", url=f"https://t.me/ROCKERZ_SUPPORT")
+                        "💥𝐉ᴏɪɴ 𝐀ɴᴅ 𝐒ᴛᴀʏ 𝐔ᴘᴅᴀᴛᴇᴅ 🥀 ", url=f"https://t.me/The_Blaze_Fighter")
                 ]
             ]
         ),
@@ -78,13 +78,13 @@ async def start(client: Client, message: Message):
 @Client.on_message(commandpro(["repo", "#repo", "@repo", "/repo", "source"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/564f5ebbd100278261a03.jpg",
+        photo=f"https://telegra.ph/file/ceea3d2fbda7b1a0c9f17.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴄʟɪᴄᴋ ᴍᴇ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ 💞", url=f"https://github.com/S780821/Rockerz_Musicplayer")
+                        "❣️ 𝗖ʟɪᴄᴋ ᴍᴇ ᴛᴏ ɢᴇᴛ 𝗥ᴇᴘᴏ 💞", url=f"HTTPS://T.ME/HARSH_pandit_xD")
                 ]
             ]
         ),
