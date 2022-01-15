@@ -1,9 +1,9 @@
 {
-    "name": "Rockerz_Musicplayer",
-    "logo": "https://telegra.ph/file/564f5ebbd100278261a03.jpg",
+    "name": "Blaze Music",
+    "logo": "https://telegra.ph/file/d81e1f2fa43cc7a54c5f0.jpg",
     "description": "An Advanced Premium Music Bot For Telegram Groups VC.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/S780821/Rockerz_Musicplayer",
+    "repository": "https://github.com/log-afk-xD/Blaze-Musics",
     "stack": "container",
     "env": {
         "API_ID": {
