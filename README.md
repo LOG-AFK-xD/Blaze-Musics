@@ -17,8 +17,6 @@
 
 ### Deploy in heroku on telegram
 
-[![Deploy+On+Tg](https://img.shields.io/badge/DEPLOY%20VIA%20TELEGRAM%20BOT-blueviolet?style=for-the-badge&logo=telegram)](https://telegram.dog/XTZ_HerokuBot?start=Uzc4MDgyMS9Sb2NrZXJ6X011c2ljcGxheWVyIFhtYXJ0eQ)
-
 ### Get String Session
 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@S780821/RoCkErZSeSsioN)
