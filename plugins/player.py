@@ -211,13 +211,13 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
             [
                 [
-                        InlineKeyboardButton(
-                            text="💥 𝐉øɩɳ Ɦɘɤɘ & 𝐒ʋƥƥøɤʈ 💞",
-                            url=f"https://t.me/Blaze_Support")
-
-                ]
-            ]
-        )
+                    InlineKeyboardButton("𝐒ᴜᴘᴘᴏʀᴛ", url=f"https://t.me/Blaze_Support"),
+                    InlineKeyboardButton(
+                      "𝐔ᴘᴅᴀᴛᴇ𝐬", url=f"https://t.me/Blaze_Support" 
+                 ),
+              ]
+           ]
+       )
 
         except Exception as e:
             title = "NaN"
@@ -227,9 +227,9 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
             [
                [
-                  InlineKeyboardButton("• Gʀᴏᴜᴘ", url=f"https://t.me/{GROUP_SUPPORT}"),
+                  InlineKeyboardButton("𝐒ᴜᴘᴘᴏʀᴛ", url=f"https://t.me/Blaze_Support"),
                   InlineKeyboardButton(
-                    "• Cʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"
+                    "𝐔ᴘᴅᴀᴛᴇ𝐬", url=f"https://t.me/Blaze_Support"
                 ),
             ]
         ]
@@ -280,14 +280,14 @@ async def play(_, message: Message):
 
         keyboard = InlineKeyboardMarkup(
             [
-                [
-                        InlineKeyboardButton(
-                            text="❣️ 𝐉øɩɳ Ɦɘɤɘ & 𝐒ʋƥƥøɤʈ 💞",
-                            url=f"https://t.me/UNIQUE_SOCIETY")
-
-                ]
+               [
+                  InlineKeyboardButton("𝐒ᴜᴘᴘᴏʀᴛ", url=f"https://t.me/Blaze_Support"),
+                  InlineKeyboardButton(
+                    "𝐔ᴘᴅᴀᴛᴇ𝐬", url=f"https://t.me/Blaze_Support"
+                ),
             ]
-        )
+        ]
+    )
 
         if (dur / 60) > DURATION_LIMIT:
             await lel.edit(
