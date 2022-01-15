@@ -226,14 +226,14 @@ async def play(_, message: Message):
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
             [
-                [
-                        InlineKeyboardButton(
-                            text="💥 𝐉øɩɳ Ɦɘɤɘ & 𝐒ʋƥƥøɤʈ 💞",
-                            url=f"https://t.me/UNIQUE_SOCIETY")
-
-                ]
+               [
+                  InlineKeyboardButton("• Gʀᴏᴜᴘ", url=f"https://t.me/{GROUP_SUPPORT}"),
+                  InlineKeyboardButton(
+                    "• Cʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"
+                ),
             ]
-        )
+        ]
+    )
 
         if (dur / 60) > DURATION_LIMIT:
             await lel.edit(
