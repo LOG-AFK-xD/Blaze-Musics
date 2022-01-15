@@ -33,7 +33,7 @@ async def _human_time_duration(seconds):
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/04e19a602fa8e054e7342.jpg",
+        photo=f"https://telegra.ph/file/d81e1f2fa43cc7a54c5f0.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 ❣️        𝗕ʟᴀᴢᴇ 𝗠ᴜ𝘀ɪᴄ 𝗥ᴏʙᴏᴛ               ❣️
 ┏━━━━━━━━━━━━━━━━━┓
@@ -41,10 +41,7 @@ async def start_(client: Client, message: Message):
 ┣★ 𝐒ᴜᴘᴘᴏʀᴛ : [𝐁ʟᴀᴢᴇ 𝐒ᴜᴘᴘᴏʀᴛ](https://t.me/Blaze_support)
 ┣★ 𝐂ʜᴀᴛ𝐙ᴏɴ : [𝐂ʜᴀᴛᴛɪɴɢ 𝐆ʀᴏᴜ.](https://t.me/UNIQUE_SOCIETY)
 ┣★ 𝐅ʀɪᴇɴᴅ𝐬  : [𝐈ɴɴᴏᴄᴇɴᴛ 𝐏ᴇʀ𝐬.](https://t.me/evil_xD_boy)
-┗━━━━━━━━━━━━━━━━━┛
-💞 𝐈ғ ᴜ ʜᴀᴠᴇ ᴀɴʏ ϙᴜᴇ𝐬ᴛɪᴏɴ𝐬 
-   𝐃ᴍ ᴛᴏ 𝐌ʏ[𝗖ᴀᴘᴛᴀɪɴ 𝗔ɴᴅʏ](https://t.me/its_jack) ...
-━━━━━━━━━━━━━━━━━━━━━━━━**""",
+┗━━━━━━━━━━━━━━━━━┛*""",
     reply_markup=InlineKeyboardMarkup(
             [
                 [
