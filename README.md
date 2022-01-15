@@ -1,4 +1,4 @@
-### Best Smart Voice Chat Music Bot For Telegram Groups ...
+### Blaze Music Best Smart Voice Chat Music Bot For Telegram Groups ...
 
 
 <p align="center"><a href="https://t.me/log_afk"><img src="https://telegra.ph/file/8878b397ef08e7b079a7a.jpg"></a></p>
@@ -8,7 +8,7 @@
 
 ### Deploy To Railway
 
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/S780821/Rockerz_Musicplayer&envs=API_ID,API_HASH,BOT_TOKEN,STRING_SESSION)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/log-afk-xD/Blaze-Music&envs=API_ID,API_HASH,BOT_TOKEN,STRING_SESSION)
 
 
 ### Deploy To Heroku
