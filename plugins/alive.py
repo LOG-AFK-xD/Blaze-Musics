@@ -37,10 +37,10 @@ async def start_(client: Client, message: Message):
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 ❣️        𝗕ʟᴀᴢᴇ 𝗠ᴜ𝘀ɪᴄ 𝗥ᴏʙᴏᴛ               ❣️
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ 𝐂ʀᴇᴀᴛᴏʀ : [𝐎ғғɪᴄɪᴀʟ 𝐀ғᴋ𝐱𝐃](https://t.me/log_afk)
-┣★ 𝐒ᴜᴘᴘᴏʀᴛ : [𝐁ʟᴀᴢᴇ 𝐒ᴜᴘᴘᴏʀᴛ](https://t.me/Blaze_support)
-┣★ 𝐂ʜᴀᴛ𝐙ᴏɴ : [𝐂ʜᴀᴛᴛɪɴɢ 𝐆ʀᴏᴜ.](https://t.me/UNIQUE_SOCIETY)
-┣★ 𝐅ʀɪᴇɴᴅ𝐬  : [𝐈ɴɴᴏᴄᴇɴᴛ 𝐏ᴇʀ𝐬.](https://t.me/evil_xD_boy)
+┣★ ⛦➪ 𝐂ʀᴇᴀᴛᴏʀ : [𝐎ғғɪᴄɪᴀʟ 𝐀ғᴋ𝐱𝐃](https://t.me/log_afk)
+┣★ ⛦➪ 𝐒ᴜᴘᴘᴏʀᴛ : [𝐁ʟᴀᴢᴇ 𝐒ᴜᴘᴘᴏʀᴛ](https://t.me/Blaze_support)
+┣★ ⛦➪ 𝐂ʜᴀᴛ𝐙ᴏɴ : [𝐂ʜᴀᴛᴛɪɴɢ 𝐆ʀᴏᴜ.](https://t.me/UNIQUE_SOCIETY)
+┣★ ⛦➪ 𝐅ʀɪᴇɴᴅ𝐬  : [𝐈ɴɴᴏᴄᴇɴᴛ 𝐏ᴇʀ𝐬.](https://t.me/evil_xD_boy)
 ┗━━━━━━━━━━━━━━━━━┛*""",
     reply_markup=InlineKeyboardMarkup(
             [
