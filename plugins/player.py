@@ -213,7 +213,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton("❣️ 𝐒ᴜᴘᴘᴏʀᴛ", url=f"https://t.me/Blaze_Support"),
                     InlineKeyboardButton(
-                      "𝐔ᴘᴅᴀᴛᴇ𝐬 ❣️", url=f"https://t.me/Blaze_Support" 
+                      "𝐔ᴘᴅᴀᴛᴇ𝐬 ❣️", url=f"https://t.me/the_Blaze_Network" 
                  ),
               ]
            ]
@@ -229,7 +229,7 @@ async def play(_, message: Message):
                [
                   InlineKeyboardButton("🥀 𝐒ᴜᴘᴘᴏʀᴛ", url=f"https://t.me/Blaze_Support"),
                   InlineKeyboardButton(
-                    "𝐔ᴘᴅᴀᴛᴇ𝐬 ❣️", url=f"https://t.me/Blaze_Support"
+                    "𝐔ᴘᴅᴀᴛᴇ𝐬 ❣️", url=f"https://t.me/the_Blaze_Network"
                 ),
             ]
         ]
@@ -283,7 +283,7 @@ async def play(_, message: Message):
                [
                   InlineKeyboardButton("❣️ 𝐒ᴜᴘᴘᴏʀᴛ", url=f"https://t.me/Blaze_Support"),
                   InlineKeyboardButton(
-                    "𝐔ᴘᴅᴀᴛᴇ𝐬 ❣️", url=f"https://t.me/Blaze_Support"
+                    "𝐔ᴘᴅᴀᴛᴇ𝐬 ❣️", url=f"https://t.me/the_Blaze_Network"
                 ),
             ]
         ]
